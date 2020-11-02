@@ -1,0 +1,16 @@
+2020-10-31 10:06:28 - PHP Notice:  Undefined variable: database in C:\Programs\xampp\htdocs\opencart\catalog\controller\common\home.php on line 24
+2020-10-31 10:06:42 - PHP Notice:  Undefined variable: database in C:\Programs\xampp\htdocs\opencart\catalog\controller\common\home.php on line 25
+2020-11-01 12:44:02 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 41
+2020-11-01 12:44:02 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 46
+2020-11-01 12:44:02 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 51
+2020-11-01 12:44:02 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 54
+2020-11-01 12:44:02 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 56
+2020-11-01 12:45:00 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 41
+2020-11-01 12:45:00 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 46
+2020-11-01 12:45:00 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 51
+2020-11-01 12:45:00 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 54
+2020-11-01 12:45:00 - PHP Notice:  Undefined index: token in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\category_wall.php on line 56
+2020-11-01 22:46:28 - PHP Notice:  Undefined index: route in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\seo_urls.php on line 141
+2020-11-01 22:46:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\seo_urls.php on line 141
+2020-11-01 22:46:28 - PHP Notice:  Undefined index: route in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\seo_urls.php on line 22
+2020-11-01 22:46:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\Programs\xampp\htdocs\opencart\admin\controller\extension\module\seo_urls.php on line 22

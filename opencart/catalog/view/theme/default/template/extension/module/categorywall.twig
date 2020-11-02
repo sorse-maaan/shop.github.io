@@ -1,0 +1,28 @@
+<style>
+.odcatwall {
+    background: #fff;
+    overflow: auto;
+    display: block;
+    padding: 10px;
+    text-align: center;
+	font-size:1.4em;
+	border:1px solid #ddd;
+	margin-bottom:20px;
+}
+.odcatwallhref {
+	padding-top:10px;
+}
+</style>
+<div class="row">
+	<div class="col-md-12">
+		<h3 class="center h-title">Our Products</h3>
+	</div>
+  {% for category in categories %}
+	<div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		<a class="odcatwall" href="{{ category.href }}">
+			<div><img src="{{ category.image }}" /></div>
+			<div class="odcatwallhref">{{ category.name }}</div>
+		</a>
+	</div>
+  {% endfor %}
+</div>
